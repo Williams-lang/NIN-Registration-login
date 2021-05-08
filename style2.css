@@ -1,0 +1,14 @@
+/*selector {
+	property: value;
+}*/
+ body {
+ 	background-color: green;
+ }
+ h2 {
+ 	color: red;
+ }
+
+ h1 {
+ 	text-align: center;
+ 	color: red;
+ }

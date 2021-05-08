@@ -1,0 +1,16 @@
+/*selector {
+	property: value;
+}*/
+
+body {
+	background-color: green;
+}
+h1 {
+	text-align: center;
+	color: red;
+}
+
+h2 {
+	text-align: center;
+	color: solid;
+}
